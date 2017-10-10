@@ -27,11 +27,25 @@ Github for Unity: https://unity.github.com/
 ## Android
 
 
+## UI / 2D
+
+
 ## VR
+
+
+## AR
 
 
 ## Csharp
 
 
 ## Java
+
+
+## Tasks
+
+- [x] start readme
+- [ ] finish official links
+- [ ] finish other categories
+- [ ] ...
 
