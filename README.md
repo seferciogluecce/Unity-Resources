@@ -23,6 +23,8 @@ Github for Unity: https://unity.github.com/
 
 ## Gists
 
+Unity Singleton - https://gist.github.com/corycorvus/e5f468158ce9255384957314d2350b9f
+
 
 ## Android
 
