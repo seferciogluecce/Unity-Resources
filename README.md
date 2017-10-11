@@ -30,6 +30,9 @@ Unity Singleton -       https://gist.github.com/corycorvus/e5f468158ce9255384957
 
 Unity MonoBehaviour -   https://gist.github.com/corycorvus/f1636063b00940844cf28081594d1e9b
 
+Oculus Platform Entitlement Check Example - https://gist.github.com/corycorvus/5e96c75c25c6de1c6e14acde2ab30ff9
+
+Windows Native Dialog - https://gist.github.com/corycorvus/e79f48edebfc3cd527ba56f989f209b1
 
 ## Android
 
