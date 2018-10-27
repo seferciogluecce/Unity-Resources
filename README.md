@@ -5,11 +5,19 @@ Links to Unity 3D game engine resources and info.
 
 ## Official
 
+Unity Website:			https://unity3d.com/
+
+Unity Store:			https://store.unity.com/
+
 Unity Bitbucket:        https://bitbucket.org/Unity-Technologies/
 
 Unity Github:           https://github.com/Unity-Technologies
 
 Linux Unity Editor:     https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/
+
+Unity Technologies:		https://www.linkedin.com/company/unity-technologies/
+
+Unity Twitter:			https://twitter.com/unity3d
 
 ## SDKs and Plugins
 
